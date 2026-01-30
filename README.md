@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Fereshtehzare
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @Fereshtehzare
 
-<!---
-Fereshtehzare/Fereshtehzare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 Background: M.Sc. in Software Engineering
+- 👀 Interests: Data Science, Machine Learning, and Deep Learning
+- 🌱 **Learning:** Currently taking specialized courses in AI and Data Science to deepen my expertise.
+- 💞️ **Collaboration:** I’m looking to collaborate on Open Source projects related to Data Science and ML.
+- 📫 How to reach me: fereshtehzaresh
+
+---
+*“Always striving to turn data into insights.”*
